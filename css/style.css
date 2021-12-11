@@ -147,6 +147,10 @@ body {
   .contact-cred{
     border: 1px solid #fafafa !important;
   }
+  .contact-img{
+    width:300px !important;
+    height:300px !important;
+  }
 }
 /* tablet */
 @media only screen and (min-width: 481px) and (max-width: 768px) {
@@ -167,6 +171,10 @@ body {
   }
   .contact-cred{
     border: 1px solid #fafafa !important;
+  }
+  .contact-img{
+    width:300px !important;
+    height:300px !important;
   }
 }
 /* pc */
@@ -261,4 +269,13 @@ footer .footer-list li{
 }
 .contact-cred:hover{
   background: #fafafa;
+}
+.fa-fb:hover{
+ color:#4267B2;
+}
+.fa-in:hover{
+  color: #2867B2;
+}
+.fa-yt:hover{
+  color:#FF0000;
 }
