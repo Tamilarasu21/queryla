@@ -140,6 +140,7 @@ body {
     font-size:28px !important;
     text-align: center;
     font-weight:500 !important;
+    display:block;
   }
   .intro {
     height:400px;
@@ -165,6 +166,7 @@ body {
     font-size:28px !important;
     text-align: center;
     font-weight:500 !important;
+    display:block;
   }
   .contact-img{
     width:300px !important;
@@ -187,6 +189,7 @@ body {
     font-size:25px !important;
     text-align: center;
     font-weight:500 !important;
+    display:block;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1024px) {
@@ -204,6 +207,7 @@ body {
     font-size:28px !important;
     text-align: center;
     font-weight:500 !important;
+    display:block;
   }
 }
 /* beyond pc */
@@ -219,6 +223,7 @@ body {
     font-size:34px !important;
     text-align: center;
     font-weight:500 !important;
+    display:block;
   }
   .intro {
     height:350px;
